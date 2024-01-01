@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm Gal, a Computer Science student passionate abo
 ### 🌐 About Me
 
 - 🚀 Currently working on **Treasure Hunt App**.
-- 💡 Experienced in .
 - 🌱 Always learning and staying curious about Technology.
 - 📚 Love reading books, especially crime.
 - 🎮 A Dead Cells enthusiast.
