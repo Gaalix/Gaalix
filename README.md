@@ -12,10 +12,9 @@ Welcome to my GitHub profile! I'm Gal, a Computer Science student passionate abo
 ### 🛠️ Tech Stack
 
 - 💻 Programming languages: C#, SQL, HTML, CSS, Python, TypeScript, Kotlin
-- 🌐 Web development: Node.js, React, Express.js 
+- 🌐 Web development: Node.js, Wordpress
 - 📱 Mobile development: Android Studio
-- 🛢️ Database managment: DataGrip
-
+- 🛢️ Database managment: SQL Server Management Studio (SSMS)
 ### 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaalix&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
