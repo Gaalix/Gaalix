@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm Gal, a Computer Science student passionate abo
 
 ### 📫 Get in Touch
 
-- 📧 Email: gaalix@mail.com
+- 📧 Email: gal.borinc2@outlook.com
 
 ### 🌟 Fun Facts
 
