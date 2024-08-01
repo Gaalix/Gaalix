@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Gal, a Computer Science student passionate abo
 ### 🛠️ Tech Stack
 
 - 💻 Programming languages: C#, SQL, HTML, CSS, Python, TypeScript, Kotlin, JavaScript, PHP, C++
-- 🌐 Web development: ReactJS, ExpresJS
+- 🌐 Web development: ReactJS, ExpressJS
 - 📱 Mobile development: Android Studio, React native
 - 🛢️ Database managment: SQL Server Management Studio (SSMS)
 ### 📈 GitHub Stats
