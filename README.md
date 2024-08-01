@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm Gal, a Computer Science student passionate abo
 
 ### 📫 Get in Touch
 
-- 📧 Email: gal.borinc2@outlook.com
+- 📧 Email: brunhart@outlook.com
 
 ### 🌟 Fun Facts
 
