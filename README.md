@@ -1,42 +1,46 @@
-## 👋 Hello there!
+# 👋 Hi, I’m Gal Borinc
 
-Welcome to my GitHub profile! I'm Gal, a Computer Science student passionate about programming. I also enjoy playing video games and am always eager to learn and explore new things.
+I’m a **Full-Stack Developer** and Computer Science student with a strong interest in building reliable, scalable, and well-structured software systems. I enjoy working across the entire stack—from backend logic and databases to modern frontend and mobile applications.
 
-### 🌐 About Me
+---
 
-- 🚀 Currently working on **Nomatsu**.
-- 🌱 Always learning and staying curious about Technology.
-- 📚 Love reading books, especially crime.
-- 🎮 A Dead Cells enthusiast.
+## 🧑‍💻 About Me
 
-### 🛠️ Tech Stack
+- 🚀 Currently working on **Folio**
+- 🎓 Computer Science student
+- 🌱 Continuously learning modern technologies and best practices
+- 📚 Interested in crime and non-fiction literature
+- 🎮 Enthusiastic Dead Cells player
 
-- 💻 Programming languages: C#, SQL, HTML, CSS, Python, TypeScript, Kotlin, JavaScript, PHP, C++
-- 🌐 Web development: ReactJS, ExpressJS
-- 📱 Mobile development: Android Studio, React native
-- 🛢️ Database managment: SQL Server Management Studio (SSMS)
-### 📈 GitHub Stats
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaalix&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+## 🛠️ Tech Stack
 
-### 📫 Get in Touch
+### Programming Languages
+- Python, TypeScript, JavaScript, PHP, Kotlin, C++, SQL
 
-- 📧 Email: brunhart@outlook.com
+### Web Development
+- React.js  
+- Next.JS  
+- Laravel
+- Yii
 
-### 🌟 Fun Facts
+### Mobile Development
+- Android Studio (Kotlin)
 
-- 🔍 I watch a lot of documentaries.
+---
 
-### 🤝 Let's Collaborate
+## 📈 GitHub Statistics
 
-I'm always open to collaboration and new projects. If you have an exciting idea or want to work together, feel free to reach out!
-
-Thanks for stopping by! 😊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaalix&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
 
-  
+---
 
-<!---
-Gaalix/Gaalix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🤝 Collaboration
+
+I’m open to collaboration on interesting projects, especially those involving full-stack development, backend systems, or practical problem-solving.  
+
+---
+
+*Thanks for visiting my profile.*
