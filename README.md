@@ -32,7 +32,7 @@ I’m a **Full-Stack Developer** and Computer Science student with a strong inte
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaalix&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+[![Gal's GitHub stats](https://github-stats-extended.vercel.app/api?username=Gaalix)](https://github.com/stats-organization/github-stats-extended)
 
 
 ---
