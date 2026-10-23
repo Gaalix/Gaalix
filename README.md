@@ -1,46 +1,17 @@
-# 👋 Hi, I’m Gal Borinc
+# Gal Borinc
 
-I’m a **Full-Stack Developer** and Computer Science student with a strong interest in building reliable, scalable, and well-structured software systems. I enjoy working across the entire stack—from backend logic and databases to modern frontend and mobile applications.
+Full-stack developer based in Slovenia with a degree in computer science. I build web, desktop and Android apps, mostly in TypeScript.
 
----
+## Tech stack
 
-## 🧑‍💻 About Me
+- Languages: TypeScript, JavaScript, Python, Kotlin, SQL, C, C#, Rust
+- Frontend: React, Next.js, Tailwind CSS, shadcn/ui, Vite
+- Backend: Node.js, Express
+- Databases: PostgreSQL, SQL Server
+- Desktop and mobile: Electron, Android (Kotlin)
 
-- 🚀 Currently working on **Folio**
-- 🎓 Computer Science student
-- 🌱 Continuously learning modern technologies and best practices
-- 📚 Interested in crime and non-fiction literature
-- 🎮 Enthusiastic Dead Cells player
+I've also worked professionally with PHP, Laravel, Yii and C++.
 
----
+## Contact
 
-## 🛠️ Tech Stack
-
-### Programming Languages
-- Python, TypeScript, JavaScript, PHP, Kotlin, C++, SQL
-
-### Web Development
-- React.js  
-- Next.JS  
-- Laravel
-- Yii
-
-### Mobile Development
-- Android Studio (Kotlin)
-
----
-
-## 📈 GitHub Statistics
-
-[![Gal's GitHub stats](https://github-stats-extended.vercel.app/api?username=Gaalix)](https://github.com/stats-organization/github-stats-extended)
-
-
----
-
-## 🤝 Collaboration
-
-I’m open to collaboration on interesting projects, especially those involving full-stack development, backend systems, or practical problem-solving.  
-
----
-
-*Thanks for visiting my profile.*
+Open to collaborating on full-stack and backend projects. You can reach me on [LinkedIn](https://www.linkedin.com/in/gal-borinc-292884289/).
